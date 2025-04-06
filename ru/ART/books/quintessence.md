@@ -2,7 +2,7 @@
 title: quintessence
 description: 
 published: true
-date: 2025-04-06T02:44:13.615Z
+date: 2025-04-06T21:52:57.605Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-05T23:00:45.994Z
