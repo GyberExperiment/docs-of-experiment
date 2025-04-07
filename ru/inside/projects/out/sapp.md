@@ -2,7 +2,7 @@
 title: SApp
 description: 
 published: true
-date: 2025-04-06T23:50:53.752Z
+date: 2025-04-07T00:40:26.473Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T23:03:53.833Z
@@ -63,7 +63,7 @@ dateCreated: 2025-04-06T23:03:53.833Z
 | Хранение данных | IPFS через Infura                                                          |
 | Состояние/Роутинг       | Effector, Next.js App Router                                               |
 | Стили           | Styled-components                                                          |
-| Тестирование    | Jest, Cypress                                                              |
+| Тестирование    | Jest/Vitest, Cypress/Playwright                                                              |
 | Инфраструктура  | Node.js , pnpm                                                             |
 
 ## Mеханика шифрования
