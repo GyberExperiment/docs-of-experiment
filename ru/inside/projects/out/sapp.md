@@ -2,7 +2,7 @@
 title: SApp
 description: 
 published: true
-date: 2025-04-07T21:25:42.907Z
+date: 2025-04-07T21:27:59.123Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-06T23:03:53.833Z
@@ -122,8 +122,9 @@ export async function connectWallet(): Promise<{ address: string; encryptionPubl
     params: [address],
   }) as string;
   return { address, encryptionPublicKey };
-}
-4.2 Регистрация пользователя
+}```
+
+### 4.2 Регистрация пользователя
 При первом входе пользователь регистрируется: его адрес и публичный ключ сохраняются в IPFS.
 Content Identifier (CID) возвращается и привязывается к адресу пользователя (например, в смарт-контракте или локальном хранилище).
 Пример кода
