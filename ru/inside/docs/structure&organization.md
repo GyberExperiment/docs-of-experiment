@@ -2,7 +2,7 @@
 title: Структура и Организация 
 description: Дополнение основной документации 
 published: true
-date: 2025-04-20T23:02:01.183Z
+date: 2025-04-20T23:02:10.361Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-20T22:58:57.711Z
